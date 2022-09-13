@@ -11,6 +11,7 @@
 		7978746428CF9712002A1575 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7978746328CF9712002A1575 /* ContentView.swift */; };
 		7978746628CF9712002A1575 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7978746528CF9712002A1575 /* Assets.xcassets */; };
 		7978746928CF9712002A1575 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7978746828CF9712002A1575 /* Preview Assets.xcassets */; };
+		7978747028CF9788002A1575 /* FileManager-DocumentsDirectory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7978746F28CF9788002A1575 /* FileManager-DocumentsDirectory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7978746328CF9712002A1575 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7978746528CF9712002A1575 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7978746828CF9712002A1575 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7978746F28CF9788002A1575 /* FileManager-DocumentsDirectory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FileManager-DocumentsDirectory.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7978746128CF9712002A1575 /* SaveToFileApp.swift */,
 				7978746328CF9712002A1575 /* ContentView.swift */,
+				7978746F28CF9788002A1575 /* FileManager-DocumentsDirectory.swift */,
 				7978746528CF9712002A1575 /* Assets.xcassets */,
 				7978746728CF9712002A1575 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7978747028CF9788002A1575 /* FileManager-DocumentsDirectory.swift in Sources */,
 				7978746428CF9712002A1575 /* ContentView.swift in Sources */,
 				7978746228CF9712002A1575 /* SaveToFileApp.swift in Sources */,
 			);
